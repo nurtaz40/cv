@@ -130,7 +130,7 @@ hr{
   float: left;
   margin-right: 50px;
   margin-top: 70px;
-  padding-bottom: 70px;
+  padding-bottom: 80px;
 }
 .web-dev{
   padding-top: 1px;
@@ -182,14 +182,14 @@ table{
   margin-bottom: 60px;
 }
 .goodbye{
-  width: 35%;
+  width: 38%;
   height: 100%;
   margin: 55px auto 0px auto;
   text-align: ;
   line-height: 2.2;
 }
 #goodbye-2{
-  width: 40%;
+  width: 50%;
   text-align: center;
   margin: auto;
   line-height: 2.1;
